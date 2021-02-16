@@ -7,7 +7,6 @@
      bash install.sh
      ./Sploit
 # Installation 
-##### https://youtu.be/z9FmwGOo3A8
 # Example
 ![CollageMaker_20191115_193409432](https://user-images.githubusercontent.com/46208706/68985841-31a1a500-07df-11ea-9d0c-abff6a2f8c49.jpg)
 
@@ -21,4 +20,4 @@
 ![Screenshot_20191114-181630_Termux~01](https://user-images.githubusercontent.com/46208706/68985817-f8693500-07de-11ea-8a64-592468ed1440.jpg)
 # Mi redes sociales
  http://m.facebook.com/bosar88
-# Disfruta -> SocialSploit by @CesarHackGray
+# Disfruta -> SocialSploit by Alberto Bosa
